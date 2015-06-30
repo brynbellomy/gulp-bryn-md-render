@@ -1,0 +1,39 @@
+{
+  "name": "gulp-bryn-md-render",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brynbellomy/gulp-bryn-md-render"
+  },
+  "homepage": "https://github.com/brynbellomy/gulp-bryn-md-render",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brynbellomy/gulp-bryn-md-render.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brynbellomy/gulp-bryn-md-render/issues"
+  },
+  "keywords": [
+    "docs",
+    "documentation",
+    "gulpplugin",
+    "markdown",
+    "generate",
+    "markdown-it"
+  ],
+  "author": "bryn austin bellomy <bryn.bellomy@gmail.com>",
+  "license": "ISC",
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=1.2.10"
+  },
+  "dependencies": {
+    "bryn-md-render": "^1.0.1",
+    "gray-matter": "^2.0.0",
+    "gulp-util": "^3.0.6",
+    "lodash": "^3.9.3",
+    "through2": "^2.0.0"
+  }
+}
