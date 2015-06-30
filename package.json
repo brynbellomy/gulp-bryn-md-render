@@ -1,17 +1,13 @@
 {
   "name": "gulp-bryn-md-render",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/brynbellomy/gulp-bryn-md-render"
-  },
-  "homepage": "https://github.com/brynbellomy/gulp-bryn-md-render",
-  "repository": {
-    "type": "git",
     "url": "git+https://github.com/brynbellomy/gulp-bryn-md-render.git"
   },
+  "homepage": "https://github.com/brynbellomy/gulp-bryn-md-render",
   "bugs": {
     "url": "https://github.com/brynbellomy/gulp-bryn-md-render/issues"
   },
